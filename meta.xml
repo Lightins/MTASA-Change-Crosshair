@@ -1,0 +1,26 @@
+<meta>
+    <info author="ChangeCrosshair" version="1.0" name="LightScribe" type="script" />
+
+    <script src="client.lua" type="client" cache="false"/>
+    <file src="texreplace.fx" />
+    <file src="1.png" />
+    <file src="2.png" />
+    <file src="3.png" />
+    <file src="4.png" />
+    <file src="5.png" />
+    <file src="6.png" />
+    <file src="7.png" />
+    <file src="8.png" />
+    <file src="9.png" />
+    <file src="10.png" />
+    <file src="11.png" />
+    <file src="12.png" />
+    <file src="13.png" />
+    <file src="14.png" />
+    <file src="15.png" />
+    <file src="16.png" />
+    <file src="17.png" />
+    <file src="18.png" />
+    <file src="19.png" />
+    <file src="20.png" />
+</meta>
